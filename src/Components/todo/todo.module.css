@@ -1,0 +1,16 @@
+.dropdown{
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.todoBody{
+    margin-top: 5px;
+    background: #b2dfdb;
+    border-radius: 5px;
+    padding: 10px;
+}
+.cardContent{
+    display: flex;
+    justify-content: space-between;
+}
